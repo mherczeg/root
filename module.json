@@ -1,15 +1,15 @@
 {
   "id": "roota",
   "name": "roota",
-  "title": "Root (PbtA) 2",
+  "title": "Root (PbtA) updated",
   "description": "Unofficial Root RPG custom sheet and compendium module, to be used with the Powered by the Apocalypse (PbtA) system.",
   "authors": [
     {
-        "name": "gonzaPaEst"
+        "name": "not gonzaPaEst"
     }
   ],
   "version": "2.2",
-  "minimumCoreVersion": "12",
+  "minimumCoreVersion": "11",
   "compatibleCoreVersion": "12",
   "compatibility": {
     "minimum": "11",
