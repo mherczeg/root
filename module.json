@@ -13,8 +13,8 @@
   "compatibleCoreVersion": "12",
   "compatibility": {
     "minimum": "11",
-    "maximum": "12.325",
-    "verified": "12.325"
+    "maximum": "12.331",
+    "verified": "12.331"
   },
   "relationships": {
     "systems": [
